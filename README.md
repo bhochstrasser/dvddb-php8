@@ -1,3 +1,11 @@
+## Enhanced Album Manager edition
+
+Looking for physical DVD binder/album management?
+See the enhanced [DVDdb PHP 8 + Album Manager](https://github.com/bhochstrasser/dvddb-album-manager) edition.
+It builds on this PHP 8 compatibility release and adds physical Album/Page/Sleeve
+locations, multi-disc occupancy, configurable album dimensions, move/swap
+operations, and location management.
+
 # DVDdb PHP 8 Compatibility Edition
 
 This package is a compatibility-focused modernization of the original DVDdb application by James Gurney.
